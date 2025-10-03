@@ -1,4 +1,4 @@
-# 👨‍💻 Danilo | Full Stack Developer
+# 👨‍💻 Danilo | Full Stack Developer Junior
 
 <div align="center">
   
@@ -73,4 +73,4 @@
 ---
 
 ## 🌱 Actualmente aprendiendo
-```javascript
+```javascript´´´
